@@ -4,8 +4,8 @@ define('HTTP_SERVER', 'http://frontendiphere/admin/');
 define('HTTP_CATALOG', 'http://frontendiphere/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://frontendiphere/admin/');
-define('HTTPS_CATALOG', 'http://frontendiphere/');
+define('HTTPS_SERVER', 'https://frontendiphere/admin/');
+define('HTTPS_CATALOG', 'https://frontendiphere/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/opencart/admin/');
