@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://frontendiphere/admin/');
-define('HTTP_CATALOG', 'http://frontendiphere/');
+define('HTTP_SERVER', 'http://opencart.vmware.education/admin/');
+define('HTTP_CATALOG', 'http://opencart.vmware.education/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://frontendiphere/admin/');
-define('HTTPS_CATALOG', 'https://frontendiphere/');
+define('HTTPS_SERVER', 'https://opencart.vmware.education/admin/');
+define('HTTPS_CATALOG', 'https://opencart.vmware.education/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/opencart/admin/');
