@@ -3,7 +3,7 @@
 define('HTTP_SERVER', 'http://opencart.vmware.education/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://opencart.vmware.education/');
+define('HTTPS_SERVER', 'httpss://opencart.vmware.education/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/opencart/catalog/');
