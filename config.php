@@ -1,6 +1,6 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://opencart.vmware.education/');
+define('HTTP_SERVER', 'https://opencart.vmware.education/');
 
 // HTTPS
 define('HTTPS_SERVER', 'https://opencart.vmware.education/');
