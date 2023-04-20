@@ -2,7 +2,7 @@
 // Version
 define('VERSION', '3.0.3.1');
 
-// Configuration
+// Configuration 1
 if (is_file('config.php')) {
 	require_once('config.php');
 }
