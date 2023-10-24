@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://frontendiphere/');
+define('HTTP_SERVER', 'https://opencart.vmware.education/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://frontendiphere/');
+define('HTTPS_SERVER', 'https://opencart.vmware.education/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/opencart/catalog/');
